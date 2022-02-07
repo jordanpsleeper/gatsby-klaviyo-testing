@@ -1,8 +1,10 @@
-yarn install
+need to install gatsby-cli to run gatsby commands `npm i -g gatsby-cli`
 
-yarn build
+`yarn install`
 
-yarn serve
+`yarn build`
+
+`yarn serve`
 
 
 - visit localhost:9000 to view production built site
