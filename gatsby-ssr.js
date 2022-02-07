@@ -11,5 +11,5 @@ const FooterScripts = [
 exports.onRenderBody = (actions) => {
     const {setPostBodyComponents, setHeadComponents} = actions;
     // setHeadComponents(HeadComponents);
-    // setPostBodyComponents(FooterScripts);
+    setPostBodyComponents(FooterScripts);
 }
